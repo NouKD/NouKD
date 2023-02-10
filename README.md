@@ -64,7 +64,7 @@ Hello, my name is NOURIA KANGOUTE, I am a trainer, Python/Django backend consult
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NouKD.NouKD)
 -->
 
-<br />
+<!-- <br />
 
 <a href="https://github.com/NouKD/french-def" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NouKD&repo=french-def&theme=dracula"">
@@ -102,7 +102,7 @@ Hello, my name is NOURIA KANGOUTE, I am a trainer, Python/Django backend consult
 
 <a href="https://github.com/NouKD/kvtemplate10" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NouKD&repo=kvtemplate10&theme=dracula"">
-</a>
+</a> -->
 
 <br />
 
