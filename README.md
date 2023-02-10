@@ -1,4 +1,4 @@
-![KANGOUTE NOURIA DJALIAH](puzzle.jpg)
+![KANGOUTE NOURIA DJALIAH](chess.jpg)
 
 ---
 
